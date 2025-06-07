@@ -7,3 +7,6 @@
 
 **Descripción:**  
 Implementación de servidor Debian con servicios SSH, Apache+PHP, MariaDB, respaldo automático y almacenamiento externo.
+
+![Diagrama Topológico](Topologica.jpeg)
+
